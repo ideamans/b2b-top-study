@@ -1,0 +1,16 @@
+{
+  "name": "b2b-toppage-research",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ideamans/b2b-saas-research.git",
+  "author": "Kunihiko Miyanaga <miyanaga@ideamans.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  }
+}
