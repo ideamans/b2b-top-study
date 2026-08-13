@@ -1,12 +1,17 @@
+// https://vitepress.dev/guide/custom-theme
+import { h } from 'vue'
+import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-
 import './style.css'
 
-/**
- * 既定テーマそのまま。CSS を足すためだけに置いている。
- *
- * 検索ウィジェットは Vue 側では挿さない。`mpa: true` でクライアントJSを
- * 配信しないため、挿し込みは `/knowledge-search.js`（素のJS）が
- * `data-mount` で行う（config.mts の head を参照）。
- */
-export default DefaultTheme
+export default {
+  extends: DefaultTheme,
+  Layout: () => {
+    return h(DefaultTheme.Layout, null, {
+      // https://vitepress.dev/guide/extending-default-theme#layout-slots
+    })
+  },
+  enhanceApp({ app, router, siteData }) {
+    // ...
+  }
+} satisfies Theme
