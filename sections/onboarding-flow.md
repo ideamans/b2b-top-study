@@ -27,32 +27,32 @@ description: '導入までの手順を図解するセクションです。採用
 
 調査サイトから一例をご紹介します。
 
-#### Bill One
+### Bill One
 [bill-one.com](https://bill-one.com)
 
 ![Bill Oneの導入の流れ](/screenshots/bill-one.com/section-07.jpg)
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理の導入の流れ](/screenshots/jobcan.ne.jp/section-12.jpg)
 
-#### カミナシ
+### カミナシ
 [kaminashi.jp](https://kaminashi.jp)
 
 ![カミナシの導入の流れ](/screenshots/kaminashi.jp/section-06.jpg)
 
-#### Mazrica Sales
+### Mazrica Sales
 [product-senses.mazrica.com](https://product-senses.mazrica.com)
 
 ![Mazrica Salesの導入の流れ](/screenshots/product-senses.mazrica.com/section-07.jpg)
 
-#### eセールスマネージャー
+### eセールスマネージャー
 [www.e-sales.jp](https://www.e-sales.jp)
 
 ![eセールスマネージャーの導入の流れ](/screenshots/www.e-sales.jp/section-05.jpg)
 
-#### Talent Palette
+### Talent Palette
 [www.talent-palette.com](https://www.talent-palette.com)
 
 ![Talent Paletteの導入の流れ](/screenshots/www.talent-palette.com/section-12.jpg)

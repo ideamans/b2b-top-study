@@ -27,77 +27,77 @@ description: '競合と比べて選ばれる理由を示すセクションです
 
 調査サイトから一例をご紹介します。
 
-#### バクラク
+### バクラク
 [bakuraku.jp](https://bakuraku.jp)
 
 ![バクラクの選ばれる理由](/screenshots/bakuraku.jp/section-05.jpg)
 
-#### Money Forward クラウド
+### Money Forward クラウド
 [biz.moneyforward.com](https://biz.moneyforward.com)
 
 ![Money Forward クラウドの選ばれる理由](/screenshots/biz.moneyforward.com/section-10.jpg)
 
-#### go.chatwork.com
+### go.chatwork.com
 [go.chatwork.com](https://go.chatwork.com/ja)
 
 ![go.chatwork.comの選ばれる理由](/screenshots/go.chatwork.com/section-07.jpg)
 
-#### jinjer
+### jinjer
 [hcm-jinjer.com](https://hcm-jinjer.com)
 
 ![jinjerの選ばれる理由](/screenshots/hcm-jinjer.com/section-04.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジの選ばれる理由](/screenshots/smaregi.jp/section-03.jpg)
 
-#### クラウドサイン
+### クラウドサイン
 [www.cloudsign.jp](https://www.cloudsign.jp)
 
 ![クラウドサインの選ばれる理由](/screenshots/www.cloudsign.jp/section-05.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowの選ばれる理由](/screenshots/www.collabo-style.co.jp/section-03.jpg)
 
-#### ContractS CLM
+### ContractS CLM
 [www.contracts.co.jp](https://www.contracts.co.jp)
 
 ![ContractS CLMの選ばれる理由](/screenshots/www.contracts.co.jp/section-03.jpg)
 
-#### DocuSign
+### DocuSign
 [www.docusign.jp](https://www.docusign.jp)
 
 ![DocuSignの選ばれる理由](/screenshots/www.docusign.jp/section-04.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインの選ばれる理由](/screenshots/www.gmosign.com/section-05.jpg)
 
-#### HRBrain
+### HRBrain
 [www.hrbrain.jp](https://www.hrbrain.jp)
 
 ![HRBrainの選ばれる理由](/screenshots/www.hrbrain.jp/section-02.jpg)
 
-#### カイポケ
+### カイポケ
 [www.kaipoke.biz](https://www.kaipoke.biz)
 
 ![カイポケの選ばれる理由](/screenshots/www.kaipoke.biz/section-05.jpg)
 
-#### TOKIUM
+### TOKIUM
 [www.keihi.com](https://www.keihi.com)
 
 ![TOKIUMの選ばれる理由](/screenshots/www.keihi.com/section-06.jpg)
 
-#### www.openpage.jp
+### www.openpage.jp
 [www.openpage.jp](https://www.openpage.jp)
 
 ![www.openpage.jpの選ばれる理由](/screenshots/www.openpage.jp/section-04.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算の選ばれる理由](/screenshots/www.rakurakuseisan.jp/section-04.jpg)

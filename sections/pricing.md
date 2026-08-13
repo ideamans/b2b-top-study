@@ -27,57 +27,57 @@ description: '料金プランを表示するセクションです。採用率は
 
 調査サイトから一例をご紹介します。
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comの料金プラン](/screenshots/backlog.com/section-07.jpg)
 
-#### Money Forward クラウド
+### Money Forward クラウド
 [biz.moneyforward.com](https://biz.moneyforward.com)
 
 ![Money Forward クラウドの料金プラン](/screenshots/biz.moneyforward.com/section-08.jpg)
 
-#### go.chatwork.com
+### go.chatwork.com
 [go.chatwork.com](https://go.chatwork.com/ja)
 
 ![go.chatwork.comの料金プラン](/screenshots/go.chatwork.com/section-06.jpg)
 
-#### jinjer
+### jinjer
 [hcm-jinjer.com](https://hcm-jinjer.com)
 
 ![jinjerの料金プラン](/screenshots/hcm-jinjer.com/section-07.jpg)
 
-#### Kibela
+### Kibela
 [kibe.la](https://kibe.la)
 
 ![Kibelaの料金プラン](/screenshots/kibe.la/section-05.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジの料金プラン](/screenshots/smaregi.jp/section-09.jpg)
 
-#### クラウドサイン
+### クラウドサイン
 [www.cloudsign.jp](https://www.cloudsign.jp)
 
 ![クラウドサインの料金プラン](/screenshots/www.cloudsign.jp/section-06.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowの料金プラン](/screenshots/www.collabo-style.co.jp/section-08.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインの料金プラン](/screenshots/www.gmosign.com/section-03.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算の料金プラン](/screenshots/www.rakurakuseisan.jp/section-08.jpg)
 
-#### www.yayoi-kk.co.jp
+### www.yayoi-kk.co.jp
 [www.yayoi-kk.co.jp](https://www.yayoi-kk.co.jp/products/account-ol/)
 
 ![www.yayoi-kk.co.jpの料金プラン](/screenshots/www.yayoi-kk.co.jp/section-05.jpg)

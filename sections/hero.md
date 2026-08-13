@@ -27,187 +27,187 @@ description: 'ファーストビューのメインビジュアルとキャッチ
 
 調査サイトから一例をご紹介します。
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comのヒーロー](/screenshots/backlog.com/section-01.jpg)
 
-#### バクラク
+### バクラク
 [bakuraku.jp](https://bakuraku.jp)
 
 ![バクラクのヒーロー](/screenshots/bakuraku.jp/section-01.jpg)
 
-#### b→dash
+### b→dash
 [bdash-marketing.com](https://bdash-marketing.com)
 
 ![b→dashのヒーロー](/screenshots/bdash-marketing.com/section-01.jpg)
 
-#### Bill One
+### Bill One
 [bill-one.com](https://bill-one.com)
 
 ![Bill Oneのヒーロー](/screenshots/bill-one.com/section-01.jpg)
 
-#### ClickUp
+### ClickUp
 [clickup.com](https://clickup.com)
 
 ![ClickUpのヒーロー](/screenshots/clickup.com/section-01.jpg)
 
-#### esa
+### esa
 [esa.io](https://esa.io)
 
 ![esaのヒーロー](/screenshots/esa.io/section-01.jpg)
 
-#### go.chatwork.com
+### go.chatwork.com
 [go.chatwork.com](https://go.chatwork.com/ja)
 
 ![go.chatwork.comのヒーロー](/screenshots/go.chatwork.com/section-01.jpg)
 
-#### Helpfeel
+### Helpfeel
 [helpfeel.com](https://helpfeel.com)
 
 ![Helpfeelのヒーロー](/screenshots/helpfeel.com/section-01.jpg)
 
-#### HRMOS
+### HRMOS
 [hrmos.co](https://hrmos.co)
 
 ![HRMOSのヒーロー](/screenshots/hrmos.co/section-01.jpg)
 
-#### invox受取請求書
+### invox受取請求書
 [invox.jp](https://invox.jp)
 
 ![invox受取請求書のヒーロー](/screenshots/invox.jp/section-01.jpg)
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理のヒーロー](/screenshots/jobcan.ne.jp/section-01.jpg)
 
-#### カミナシ
+### カミナシ
 [kaminashi.jp](https://kaminashi.jp)
 
 ![カミナシのヒーロー](/screenshots/kaminashi.jp/section-01.jpg)
 
-#### KARTE
+### KARTE
 [karte.io](https://karte.io)
 
 ![KARTEのヒーロー](/screenshots/karte.io/section-01.jpg)
 
-#### Kibela
+### Kibela
 [kibe.la](https://kibe.la)
 
 ![Kibelaのヒーロー](/screenshots/kibe.la/section-01.jpg)
 
-#### LegalForce
+### LegalForce
 [legalforce-cloud.com](https://legalforce-cloud.com)
 
 ![LegalForceのヒーロー](/screenshots/legalforce-cloud.com/section-01.jpg)
 
-#### microCMS
+### microCMS
 [microcms.io](https://microcms.io)
 
 ![microCMSのヒーロー](/screenshots/microcms.io/section-01.jpg)
 
-#### MiiTel
+### MiiTel
 [miitel.com](https://miitel.com)
 
 ![MiiTelのヒーロー](/screenshots/miitel.com/section-01.jpg)
 
-#### Musubu
+### Musubu
 [musubu.in](https://musubu.in)
 
 ![Musubuのヒーロー](/screenshots/musubu.in/section-01.jpg)
 
-#### サイボウズ Office
+### サイボウズ Office
 [office.cybozu.co.jp](https://office.cybozu.co.jp)
 
 ![サイボウズ Officeのヒーロー](/screenshots/office.cybozu.co.jp/section-01.jpg)
 
-#### PCAクラウド
+### PCAクラウド
 [pca.jp_cloud](https://pca.jp/cloud)
 
 ![PCAクラウドのヒーロー](/screenshots/pca.jp_cloud/section-01.jpg)
 
-#### rakumo
+### rakumo
 [rakumo.com](https://rakumo.com)
 
 ![rakumoのヒーロー](/screenshots/rakumo.com/section-01.jpg)
 
-#### Scrapbox
+### Scrapbox
 [scrapbox.io](https://scrapbox.io)
 
 ![Scrapboxのヒーロー](/screenshots/scrapbox.io/section-01.jpg)
 
-#### slack.com
+### slack.com
 [slack.com](https://slack.com/intl/ja-jp)
 
 ![slack.comのヒーロー](/screenshots/slack.com/section-01.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジのヒーロー](/screenshots/smaregi.jp/section-01.jpg)
 
-#### Talknote
+### Talknote
 [talknote.com](https://talknote.com)
 
 ![Talknoteのヒーロー](/screenshots/talknote.com/section-01.jpg)
 
-#### クラウドサイン
+### クラウドサイン
 [www.cloudsign.jp](https://www.cloudsign.jp)
 
 ![クラウドサインのヒーロー](/screenshots/www.cloudsign.jp/section-01.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowのヒーロー](/screenshots/www.collabo-style.co.jp/section-01.jpg)
 
-#### ContractS CLM
+### ContractS CLM
 [www.contracts.co.jp](https://www.contracts.co.jp)
 
 ![ContractS CLMのヒーロー](/screenshots/www.contracts.co.jp/section-01.jpg)
 
-#### eセールスマネージャー
+### eセールスマネージャー
 [www.e-sales.jp](https://www.e-sales.jp)
 
 ![eセールスマネージャーのヒーロー](/screenshots/www.e-sales.jp/section-01.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインのヒーロー](/screenshots/www.gmosign.com/section-01.jpg)
 
-#### HubSpot
+### HubSpot
 [www.hubspot.jp](https://www.hubspot.jp)
 
 ![HubSpotのヒーロー](/screenshots/www.hubspot.jp/section-01.jpg)
 
-#### カイポケ
+### カイポケ
 [www.kaipoke.biz](https://www.kaipoke.biz)
 
 ![カイポケのヒーロー](/screenshots/www.kaipoke.biz/section-01.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビのヒーロー](/screenshots/www.kaonavi.jp/section-01.jpg)
 
-#### www.microsoft.com_teams
+### www.microsoft.com_teams
 [www.microsoft.com_teams](https://www.microsoft.com_teams)
 
 ![www.microsoft.com_teamsのヒーロー](/screenshots/www.microsoft.com_teams/section-01.jpg)
 
-#### www.openpage.jp
+### www.openpage.jp
 [www.openpage.jp](https://www.openpage.jp)
 
 ![www.openpage.jpのヒーロー](/screenshots/www.openpage.jp/section-01.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算のヒーロー](/screenshots/www.rakurakuseisan.jp/section-01.jpg)
 
-#### SHANON
+### SHANON
 [www.shanon.co.jp](https://www.shanon.co.jp)
 
 ![SHANONのヒーロー](/screenshots/www.shanon.co.jp/section-01.jpg)

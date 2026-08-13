@@ -27,22 +27,22 @@ description: '専門家の推薦や利用者の評価を引用するセクショ
 
 調査サイトから一例をご紹介します。
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理の推薦・声](/screenshots/jobcan.ne.jp/section-09.jpg)
 
-#### カイポケ
+### カイポケ
 [www.kaipoke.biz](https://www.kaipoke.biz)
 
 ![カイポケの推薦・声](/screenshots/www.kaipoke.biz/section-07.jpg)
 
-#### KING OF TIME
+### KING OF TIME
 [www.kingtime.jp](https://www.kingtime.jp)
 
 ![KING OF TIMEの推薦・声](/screenshots/www.kingtime.jp/section-03.jpg)
 
-#### www.yayoi-kk.co.jp
+### www.yayoi-kk.co.jp
 [www.yayoi-kk.co.jp](https://www.yayoi-kk.co.jp/products/account-ol/)
 
 ![www.yayoi-kk.co.jpの推薦・声](/screenshots/www.yayoi-kk.co.jp/section-04.jpg)

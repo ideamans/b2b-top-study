@@ -27,52 +27,52 @@ description: 'ヒーローとは別に、核となる価値提案を独立して
 
 調査サイトから一例をご紹介します。
 
-#### Airレジ
+### Airレジ
 [airregi.jp](https://airregi.jp)
 
 ![Airレジの価値訴求](/screenshots/airregi.jp/section-02.jpg)
 
-#### Bill One
+### Bill One
 [bill-one.com](https://bill-one.com)
 
 ![Bill Oneの価値訴求](/screenshots/bill-one.com/section-04.jpg)
 
-#### HRMOS
+### HRMOS
 [hrmos.co](https://hrmos.co)
 
 ![HRMOSの価値訴求](/screenshots/hrmos.co/section-04.jpg)
 
-#### KARTE
+### KARTE
 [karte.io](https://karte.io)
 
 ![KARTEの価値訴求](/screenshots/karte.io/section-02.jpg)
 
-#### Kibela
+### Kibela
 [kibe.la](https://kibe.la)
 
 ![Kibelaの価値訴求](/screenshots/kibe.la/section-02.jpg)
 
-#### slack.com
+### slack.com
 [slack.com](https://slack.com/intl/ja-jp)
 
 ![slack.comの価値訴求](/screenshots/slack.com/section-03.jpg)
 
-#### desknet's NEO
+### desknet's NEO
 [www.desknets.com](https://www.desknets.com)
 
 ![desknet's NEOの価値訴求](/screenshots/www.desknets.com/section-02.jpg)
 
-#### DocuSign
+### DocuSign
 [www.docusign.jp](https://www.docusign.jp)
 
 ![DocuSignの価値訴求](/screenshots/www.docusign.jp/section-06.jpg)
 
-#### www.openpage.jp
+### www.openpage.jp
 [www.openpage.jp](https://www.openpage.jp)
 
 ![www.openpage.jpの価値訴求](/screenshots/www.openpage.jp/section-06.jpg)
 
-#### Sansan
+### Sansan
 [www.sansan.com](https://www.sansan.com)
 
 ![Sansanの価値訴求](/screenshots/www.sansan.com/section-03.jpg)

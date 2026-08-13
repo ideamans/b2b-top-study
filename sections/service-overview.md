@@ -27,107 +27,107 @@ description: '「〜とは」の形でサービス全体像を説明するセク
 
 調査サイトから一例をご紹介します。
 
-#### Airレジ
+### Airレジ
 [airregi.jp](https://airregi.jp)
 
 ![Airレジのサービス概要](/screenshots/airregi.jp/section-03.jpg)
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comのサービス概要](/screenshots/backlog.com/section-03.jpg)
 
-#### Money Forward クラウド
+### Money Forward クラウド
 [biz.moneyforward.com](https://biz.moneyforward.com)
 
 ![Money Forward クラウドのサービス概要](/screenshots/biz.moneyforward.com/section-04.jpg)
 
-#### go.chatwork.com
+### go.chatwork.com
 [go.chatwork.com](https://go.chatwork.com/ja)
 
 ![go.chatwork.comのサービス概要](/screenshots/go.chatwork.com/section-03.jpg)
 
-#### Helpfeel
+### Helpfeel
 [helpfeel.com](https://helpfeel.com)
 
 ![Helpfeelのサービス概要](/screenshots/helpfeel.com/section-02.jpg)
 
-#### HRMOS
+### HRMOS
 [hrmos.co](https://hrmos.co)
 
 ![HRMOSのサービス概要](/screenshots/hrmos.co/section-03.jpg)
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理のサービス概要](/screenshots/jobcan.ne.jp/section-02.jpg)
 
-#### Kintone
+### Kintone
 [kintone.com](https://kintone.com)
 
 ![Kintoneのサービス概要](/screenshots/kintone.com/section-02.jpg)
 
-#### LegalForce
+### LegalForce
 [legalforce-cloud.com](https://legalforce-cloud.com)
 
 ![LegalForceのサービス概要](/screenshots/legalforce-cloud.com/section-02.jpg)
 
-#### SATORI
+### SATORI
 [satori.marketing](https://satori.marketing)
 
 ![SATORIのサービス概要](/screenshots/satori.marketing/section-02.jpg)
 
-#### SmartHR
+### SmartHR
 [smarthr.jp](https://smarthr.jp)
 
 ![SmartHRのサービス概要](/screenshots/smarthr.jp/section-03.jpg)
 
-#### クラウドサイン
+### クラウドサイン
 [www.cloudsign.jp](https://www.cloudsign.jp)
 
 ![クラウドサインのサービス概要](/screenshots/www.cloudsign.jp/section-02.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowのサービス概要](/screenshots/www.collabo-style.co.jp/section-02.jpg)
 
-#### eセールスマネージャー
+### eセールスマネージャー
 [www.e-sales.jp](https://www.e-sales.jp)
 
 ![eセールスマネージャーのサービス概要](/screenshots/www.e-sales.jp/section-02.jpg)
 
-#### カイポケ
+### カイポケ
 [www.kaipoke.biz](https://www.kaipoke.biz)
 
 ![カイポケのサービス概要](/screenshots/www.kaipoke.biz/section-02.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビのサービス概要](/screenshots/www.kaonavi.jp/section-03.jpg)
 
-#### TOKIUM
+### TOKIUM
 [www.keihi.com](https://www.keihi.com)
 
 ![TOKIUMのサービス概要](/screenshots/www.keihi.com/section-02.jpg)
 
-#### www.openpage.jp
+### www.openpage.jp
 [www.openpage.jp](https://www.openpage.jp)
 
 ![www.openpage.jpのサービス概要](/screenshots/www.openpage.jp/section-03.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算のサービス概要](/screenshots/www.rakurakuseisan.jp/section-03.jpg)
 
-#### SHANON
+### SHANON
 [www.shanon.co.jp](https://www.shanon.co.jp)
 
 ![SHANONのサービス概要](/screenshots/www.shanon.co.jp/section-03.jpg)
 
-#### Talent Palette
+### Talent Palette
 [www.talent-palette.com](https://www.talent-palette.com)
 
 ![Talent Paletteのサービス概要](/screenshots/www.talent-palette.com/section-03.jpg)

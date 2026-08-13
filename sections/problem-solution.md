@@ -27,52 +27,52 @@ description: '課題を提起してから解決策を示すセクションです
 
 調査サイトから一例をご紹介します。
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理の課題解決](/screenshots/jobcan.ne.jp/section-03.jpg)
 
-#### カミナシ
+### カミナシ
 [kaminashi.jp](https://kaminashi.jp)
 
 ![カミナシの課題解決](/screenshots/kaminashi.jp/section-02.jpg)
 
-#### Musubu
+### Musubu
 [musubu.in](https://musubu.in)
 
 ![Musubuの課題解決](/screenshots/musubu.in/section-03.jpg)
 
-#### SmartHR
+### SmartHR
 [smarthr.jp](https://smarthr.jp)
 
 ![SmartHRの課題解決](/screenshots/smarthr.jp/section-05.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowの課題解決](/screenshots/www.collabo-style.co.jp/section-04.jpg)
 
-#### HRBrain
+### HRBrain
 [www.hrbrain.jp](https://www.hrbrain.jp)
 
 ![HRBrainの課題解決](/screenshots/www.hrbrain.jp/section-03.jpg)
 
-#### www.openpage.jp
+### www.openpage.jp
 [www.openpage.jp](https://www.openpage.jp)
 
 ![www.openpage.jpの課題解決](/screenshots/www.openpage.jp/section-05.jpg)
 
-#### Sansan
+### Sansan
 [www.sansan.com](https://www.sansan.com)
 
 ![Sansanの課題解決](/screenshots/www.sansan.com/section-05.jpg)
 
-#### Talent Palette
+### Talent Palette
 [www.talent-palette.com](https://www.talent-palette.com)
 
 ![Talent Paletteの課題解決](/screenshots/www.talent-palette.com/section-08.jpg)
 
-#### www.yayoi-kk.co.jp
+### www.yayoi-kk.co.jp
 [www.yayoi-kk.co.jp](https://www.yayoi-kk.co.jp/products/account-ol/)
 
 ![www.yayoi-kk.co.jpの課題解決](/screenshots/www.yayoi-kk.co.jp/section-09.jpg)

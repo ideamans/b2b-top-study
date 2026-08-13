@@ -27,107 +27,107 @@ description: '主要機能を具体的に紹介するセクションです。採
 
 調査サイトから一例をご紹介します。
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comの機能紹介](/screenshots/backlog.com/section-05.jpg)
 
-#### バクラク
+### バクラク
 [bakuraku.jp](https://bakuraku.jp)
 
 ![バクラクの機能紹介](/screenshots/bakuraku.jp/section-04.jpg)
 
-#### Bill One
+### Bill One
 [bill-one.com](https://bill-one.com)
 
 ![Bill Oneの機能紹介](/screenshots/bill-one.com/section-02.jpg)
 
-#### esa
+### esa
 [esa.io](https://esa.io)
 
 ![esaの機能紹介](/screenshots/esa.io/section-03.jpg)
 
-#### go.chatwork.com
+### go.chatwork.com
 [go.chatwork.com](https://go.chatwork.com/ja)
 
 ![go.chatwork.comの機能紹介](/screenshots/go.chatwork.com/section-05.jpg)
 
-#### HRMOS
+### HRMOS
 [hrmos.co](https://hrmos.co)
 
 ![HRMOSの機能紹介](/screenshots/hrmos.co/section-05.jpg)
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理の機能紹介](/screenshots/jobcan.ne.jp/section-05.jpg)
 
-#### KARTE
+### KARTE
 [karte.io](https://karte.io)
 
 ![KARTEの機能紹介](/screenshots/karte.io/section-04.jpg)
 
-#### Kibela
+### Kibela
 [kibe.la](https://kibe.la)
 
 ![Kibelaの機能紹介](/screenshots/kibe.la/section-06.jpg)
 
-#### Mazrica Sales
+### Mazrica Sales
 [product-senses.mazrica.com](https://product-senses.mazrica.com)
 
 ![Mazrica Salesの機能紹介](/screenshots/product-senses.mazrica.com/section-06.jpg)
 
-#### Sales Marker
+### Sales Marker
 [sales-marker.jp](https://sales-marker.jp)
 
 ![Sales Markerの機能紹介](/screenshots/sales-marker.jp/section-06.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジの機能紹介](/screenshots/smaregi.jp/section-06.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジの機能紹介](/screenshots/smaregi.jp/section-07.jpg)
 
-#### ContractS CLM
+### ContractS CLM
 [www.contracts.co.jp](https://www.contracts.co.jp)
 
 ![ContractS CLMの機能紹介](/screenshots/www.contracts.co.jp/section-04.jpg)
 
-#### desknet's NEO
+### desknet's NEO
 [www.desknets.com](https://www.desknets.com)
 
 ![desknet's NEOの機能紹介](/screenshots/www.desknets.com/section-03.jpg)
 
-#### eセールスマネージャー
+### eセールスマネージャー
 [www.e-sales.jp](https://www.e-sales.jp)
 
 ![eセールスマネージャーの機能紹介](/screenshots/www.e-sales.jp/section-04.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインの機能紹介](/screenshots/www.gmosign.com/section-02.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインの機能紹介](/screenshots/www.gmosign.com/section-04.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビの機能紹介](/screenshots/www.kaonavi.jp/section-09.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算の機能紹介](/screenshots/www.rakurakuseisan.jp/section-05.jpg)
 
-#### Sansan
+### Sansan
 [www.sansan.com](https://www.sansan.com)
 
 ![Sansanの機能紹介](/screenshots/www.sansan.com/section-06.jpg)

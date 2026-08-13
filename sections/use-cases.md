@@ -27,32 +27,32 @@ description: '業種別・課題別に活用シーンを見せるセクション
 
 調査サイトから一例をご紹介します。
 
-#### Kintone
+### Kintone
 [kintone.com](https://kintone.com)
 
 ![Kintoneのユースケース](/screenshots/kintone.com/section-03.jpg)
 
-#### microCMS
+### microCMS
 [microcms.io](https://microcms.io)
 
 ![microCMSのユースケース](/screenshots/microcms.io/section-07.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジのユースケース](/screenshots/smaregi.jp/section-02.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowのユースケース](/screenshots/www.collabo-style.co.jp/section-05.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビのユースケース](/screenshots/www.kaonavi.jp/section-02.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビのユースケース](/screenshots/www.kaonavi.jp/section-05.jpg)

@@ -1,4 +1,5 @@
 ---
+title: B2B SaaS 62サイトのトップページ構成調査
 layout: home
 hero:
   name: "B2Bトップページ研究"

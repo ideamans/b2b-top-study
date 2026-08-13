@@ -27,87 +27,87 @@ description: 'お知らせ・プレスリリースを掲載するセクション
 
 調査サイトから一例をご紹介します。
 
-#### ANDPAD
+### ANDPAD
 [andpad.jp](https://andpad.jp)
 
 ![ANDPADのお知らせ](/screenshots/andpad.jp/section-06.jpg)
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comのお知らせ](/screenshots/backlog.com/section-09.jpg)
 
-#### バクラク
+### バクラク
 [bakuraku.jp](https://bakuraku.jp)
 
 ![バクラクのお知らせ](/screenshots/bakuraku.jp/section-08.jpg)
 
-#### カミナシ
+### カミナシ
 [kaminashi.jp](https://kaminashi.jp)
 
 ![カミナシのお知らせ](/screenshots/kaminashi.jp/section-09.jpg)
 
-#### Kibela
+### Kibela
 [kibe.la](https://kibe.la)
 
 ![Kibelaのお知らせ](/screenshots/kibe.la/section-08.jpg)
 
-#### rakumo
+### rakumo
 [rakumo.com](https://rakumo.com)
 
 ![rakumoのお知らせ](/screenshots/rakumo.com/section-07.jpg)
 
-#### クラウドサイン
+### クラウドサイン
 [www.cloudsign.jp](https://www.cloudsign.jp)
 
 ![クラウドサインのお知らせ](/screenshots/www.cloudsign.jp/section-09.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowのお知らせ](/screenshots/www.collabo-style.co.jp/section-10.jpg)
 
-#### eセールスマネージャー
+### eセールスマネージャー
 [www.e-sales.jp](https://www.e-sales.jp)
 
 ![eセールスマネージャーのお知らせ](/screenshots/www.e-sales.jp/section-08.jpg)
 
-#### freee
+### freee
 [www.freee.co.jp](https://www.freee.co.jp)
 
 ![freeeのお知らせ](/screenshots/www.freee.co.jp/section-05.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインのお知らせ](/screenshots/www.gmosign.com/section-11.jpg)
 
-#### HRBrain
+### HRBrain
 [www.hrbrain.jp](https://www.hrbrain.jp)
 
 ![HRBrainのお知らせ](/screenshots/www.hrbrain.jp/section-08.jpg)
 
-#### TOKIUM
+### TOKIUM
 [www.keihi.com](https://www.keihi.com)
 
 ![TOKIUMのお知らせ](/screenshots/www.keihi.com/section-11.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算のお知らせ](/screenshots/www.rakurakuseisan.jp/section-11.jpg)
 
-#### SHANON
+### SHANON
 [www.shanon.co.jp](https://www.shanon.co.jp)
 
 ![SHANONのお知らせ](/screenshots/www.shanon.co.jp/section-02.jpg)
 
-#### トヨクモ
+### トヨクモ
 [www.toyokumo.co.jp](https://www.toyokumo.co.jp)
 
 ![トヨクモのお知らせ](/screenshots/www.toyokumo.co.jp/section-02.jpg)
 
-#### www.works-hi.co.jp
+### www.works-hi.co.jp
 [www.works-hi.co.jp](https://www.works-hi.co.jp/products/hr)
 
 ![www.works-hi.co.jpのお知らせ](/screenshots/www.works-hi.co.jp/section-10.jpg)

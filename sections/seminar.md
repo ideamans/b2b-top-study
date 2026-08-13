@@ -27,47 +27,47 @@ description: 'セミナー・ウェビナーの告知と参加導線です。採
 
 調査サイトから一例をご紹介します。
 
-#### ANDPAD
+### ANDPAD
 [andpad.jp](https://andpad.jp)
 
 ![ANDPADのセミナー](/screenshots/andpad.jp/section-08.jpg)
 
-#### Money Forward クラウド
+### Money Forward クラウド
 [biz.moneyforward.com](https://biz.moneyforward.com)
 
 ![Money Forward クラウドのセミナー](/screenshots/biz.moneyforward.com/section-15.jpg)
 
-#### カミナシ
+### カミナシ
 [kaminashi.jp](https://kaminashi.jp)
 
 ![カミナシのセミナー](/screenshots/kaminashi.jp/section-08.jpg)
 
-#### Sales Marker
+### Sales Marker
 [sales-marker.jp](https://sales-marker.jp)
 
 ![Sales Markerのセミナー](/screenshots/sales-marker.jp/section-11.jpg)
 
-#### SmartHR
+### SmartHR
 [smarthr.jp](https://smarthr.jp)
 
 ![SmartHRのセミナー](/screenshots/smarthr.jp/section-11.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowのセミナー](/screenshots/www.collabo-style.co.jp/section-11.jpg)
 
-#### desknet's NEO
+### desknet's NEO
 [www.desknets.com](https://www.desknets.com)
 
 ![desknet's NEOのセミナー](/screenshots/www.desknets.com/section-09.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビのセミナー](/screenshots/www.kaonavi.jp/section-12.jpg)
 
-#### KING OF TIME
+### KING OF TIME
 [www.kingtime.jp](https://www.kingtime.jp)
 
 ![KING OF TIMEのセミナー](/screenshots/www.kingtime.jp/section-07.jpg)

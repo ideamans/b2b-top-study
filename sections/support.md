@@ -27,77 +27,77 @@ description: 'サポート体制やカスタマーサクセスを紹介するセ
 
 調査サイトから一例をご紹介します。
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comのサポート](/screenshots/backlog.com/section-08.jpg)
 
-#### バクラク
+### バクラク
 [bakuraku.jp](https://bakuraku.jp)
 
 ![バクラクのサポート](/screenshots/bakuraku.jp/section-07.jpg)
 
-#### Money Forward クラウド
+### Money Forward クラウド
 [biz.moneyforward.com](https://biz.moneyforward.com)
 
 ![Money Forward クラウドのサポート](/screenshots/biz.moneyforward.com/section-11.jpg)
 
-#### jinjer
+### jinjer
 [hcm-jinjer.com](https://hcm-jinjer.com)
 
 ![jinjerのサポート](/screenshots/hcm-jinjer.com/section-08.jpg)
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理のサポート](/screenshots/jobcan.ne.jp/section-13.jpg)
 
-#### KARTE
+### KARTE
 [karte.io](https://karte.io)
 
 ![KARTEのサポート](/screenshots/karte.io/section-07.jpg)
 
-#### Kintone
+### Kintone
 [kintone.com](https://kintone.com)
 
 ![Kintoneのサポート](/screenshots/kintone.com/section-07.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジのサポート](/screenshots/smaregi.jp/section-11.jpg)
 
-#### SmartHR
+### SmartHR
 [smarthr.jp](https://smarthr.jp)
 
 ![SmartHRのサポート](/screenshots/smarthr.jp/section-13.jpg)
 
-#### CollaboFlow
+### CollaboFlow
 [www.collabo-style.co.jp](https://www.collabo-style.co.jp)
 
 ![CollaboFlowのサポート](/screenshots/www.collabo-style.co.jp/section-07.jpg)
 
-#### eセールスマネージャー
+### eセールスマネージャー
 [www.e-sales.jp](https://www.e-sales.jp)
 
 ![eセールスマネージャーのサポート](/screenshots/www.e-sales.jp/section-06.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインのサポート](/screenshots/www.gmosign.com/section-06.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビのサポート](/screenshots/www.kaonavi.jp/section-10.jpg)
 
-#### Talent Palette
+### Talent Palette
 [www.talent-palette.com](https://www.talent-palette.com)
 
 ![Talent Paletteのサポート](/screenshots/www.talent-palette.com/section-11.jpg)
 
-#### www.works-hi.co.jp
+### www.works-hi.co.jp
 [www.works-hi.co.jp](https://www.works-hi.co.jp/products/hr)
 
 ![www.works-hi.co.jpのサポート](/screenshots/www.works-hi.co.jp/section-05.jpg)

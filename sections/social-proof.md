@@ -27,122 +27,122 @@ description: '導入社数や利用者数などの実績を大きく見せるセ
 
 調査サイトから一例をご紹介します。
 
-#### ferret One
+### ferret One
 [ferret-one.com](https://ferret-one.com)
 
 ![ferret Oneの実績・数値](/screenshots/ferret-one.com/section-10.jpg)
 
-#### go.chatwork.com
+### go.chatwork.com
 [go.chatwork.com](https://go.chatwork.com/ja)
 
 ![go.chatwork.comの実績・数値](/screenshots/go.chatwork.com/section-02.jpg)
 
-#### ジョブカン勤怠管理
+### ジョブカン勤怠管理
 [jobcan.ne.jp](https://jobcan.ne.jp)
 
 ![ジョブカン勤怠管理の実績・数値](/screenshots/jobcan.ne.jp/section-10.jpg)
 
-#### microCMS
+### microCMS
 [microcms.io](https://microcms.io)
 
 ![microCMSの実績・数値](/screenshots/microcms.io/section-02.jpg)
 
-#### ペライチ
+### ペライチ
 [peraichi.com](https://peraichi.com)
 
 ![ペライチの実績・数値](/screenshots/peraichi.com/section-06.jpg)
 
-#### rakumo
+### rakumo
 [rakumo.com](https://rakumo.com)
 
 ![rakumoの実績・数値](/screenshots/rakumo.com/section-03.jpg)
 
-#### Sales Marker
+### Sales Marker
 [sales-marker.jp](https://sales-marker.jp)
 
 ![Sales Markerの実績・数値](/screenshots/sales-marker.jp/section-04.jpg)
 
-#### Sales Marker
+### Sales Marker
 [sales-marker.jp](https://sales-marker.jp)
 
 ![Sales Markerの実績・数値](/screenshots/sales-marker.jp/section-05.jpg)
 
-#### Sales Marker
+### Sales Marker
 [sales-marker.jp](https://sales-marker.jp)
 
 ![Sales Markerの実績・数値](/screenshots/sales-marker.jp/section-07.jpg)
 
-#### slack.com
+### slack.com
 [slack.com](https://slack.com/intl/ja-jp)
 
 ![slack.comの実績・数値](/screenshots/slack.com/section-05.jpg)
 
-#### スマレジ
+### スマレジ
 [smaregi.jp](https://smaregi.jp)
 
 ![スマレジの実績・数値](/screenshots/smaregi.jp/section-04.jpg)
 
-#### SmartHR
+### SmartHR
 [smarthr.jp](https://smarthr.jp)
 
 ![SmartHRの実績・数値](/screenshots/smarthr.jp/section-04.jpg)
 
-#### クラウドサイン
+### クラウドサイン
 [www.cloudsign.jp](https://www.cloudsign.jp)
 
 ![クラウドサインの実績・数値](/screenshots/www.cloudsign.jp/section-04.jpg)
 
-#### DocuSign
+### DocuSign
 [www.docusign.jp](https://www.docusign.jp)
 
 ![DocuSignの実績・数値](/screenshots/www.docusign.jp/section-03.jpg)
 
-#### GMOサイン
+### GMOサイン
 [www.gmosign.com](https://www.gmosign.com)
 
 ![GMOサインの実績・数値](/screenshots/www.gmosign.com/section-07.jpg)
 
-#### HRBrain
+### HRBrain
 [www.hrbrain.jp](https://www.hrbrain.jp)
 
 ![HRBrainの実績・数値](/screenshots/www.hrbrain.jp/section-04.jpg)
 
-#### HubSpot
+### HubSpot
 [www.hubspot.jp](https://www.hubspot.jp)
 
 ![HubSpotの実績・数値](/screenshots/www.hubspot.jp/section-02.jpg)
 
-#### カイポケ
+### カイポケ
 [www.kaipoke.biz](https://www.kaipoke.biz)
 
 ![カイポケの実績・数値](/screenshots/www.kaipoke.biz/section-04.jpg)
 
-#### カオナビ
+### カオナビ
 [www.kaonavi.jp](https://www.kaonavi.jp)
 
 ![カオナビの実績・数値](/screenshots/www.kaonavi.jp/section-04.jpg)
 
-#### KING OF TIME
+### KING OF TIME
 [www.kingtime.jp](https://www.kingtime.jp)
 
 ![KING OF TIMEの実績・数値](/screenshots/www.kingtime.jp/section-04.jpg)
 
-#### Movable Type
+### Movable Type
 [www.movabletype.jp](https://www.movabletype.jp)
 
 ![Movable Typeの実績・数値](/screenshots/www.movabletype.jp/section-03.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算の実績・数値](/screenshots/www.rakurakuseisan.jp/section-02.jpg)
 
-#### 楽楽精算
+### 楽楽精算
 [www.rakurakuseisan.jp](https://www.rakurakuseisan.jp)
 
 ![楽楽精算の実績・数値](/screenshots/www.rakurakuseisan.jp/section-06.jpg)
 
-#### Talent Palette
+### Talent Palette
 [www.talent-palette.com](https://www.talent-palette.com)
 
 ![Talent Paletteの実績・数値](/screenshots/www.talent-palette.com/section-07.jpg)

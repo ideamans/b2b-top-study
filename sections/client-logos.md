@@ -27,27 +27,27 @@ description: '導入企業のロゴを並べるセクションです。採用率
 
 調査サイトから一例をご紹介します。
 
-#### backlog.com
+### backlog.com
 [backlog.com](https://backlog.com/ja)
 
 ![backlog.comの導入企業ロゴ](/screenshots/backlog.com/section-02.jpg)
 
-#### HRMOS
+### HRMOS
 [hrmos.co](https://hrmos.co)
 
 ![HRMOSの導入企業ロゴ](/screenshots/hrmos.co/section-02.jpg)
 
-#### Kibela
+### Kibela
 [kibe.la](https://kibe.la)
 
 ![Kibelaの導入企業ロゴ](/screenshots/kibe.la/section-07.jpg)
 
-#### ContractS CLM
+### ContractS CLM
 [www.contracts.co.jp](https://www.contracts.co.jp)
 
 ![ContractS CLMの導入企業ロゴ](/screenshots/www.contracts.co.jp/section-05.jpg)
 
-#### www.openpage.jp
+### www.openpage.jp
 [www.openpage.jp](https://www.openpage.jp)
 
 ![www.openpage.jpの導入企業ロゴ](/screenshots/www.openpage.jp/section-02.jpg)

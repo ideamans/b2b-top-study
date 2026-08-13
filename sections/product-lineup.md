@@ -27,47 +27,47 @@ description: '複数の製品や機能カテゴリを一覧にするセクショ
 
 調査サイトから一例をご紹介します。
 
-#### バクラク
+### バクラク
 [bakuraku.jp](https://bakuraku.jp)
 
 ![バクラクの製品ラインナップ](/screenshots/bakuraku.jp/section-03.jpg)
 
-#### jinjer
+### jinjer
 [hcm-jinjer.com](https://hcm-jinjer.com)
 
 ![jinjerの製品ラインナップ](/screenshots/hcm-jinjer.com/section-03.jpg)
 
-#### invox受取請求書
+### invox受取請求書
 [invox.jp](https://invox.jp)
 
 ![invox受取請求書の製品ラインナップ](/screenshots/invox.jp/section-07.jpg)
 
-#### invox受取請求書
+### invox受取請求書
 [invox.jp](https://invox.jp)
 
 ![invox受取請求書の製品ラインナップ](/screenshots/invox.jp/section-13.jpg)
 
-#### rakumo
+### rakumo
 [rakumo.com](https://rakumo.com)
 
 ![rakumoの製品ラインナップ](/screenshots/rakumo.com/section-02.jpg)
 
-#### HRBrain
+### HRBrain
 [www.hrbrain.jp](https://www.hrbrain.jp)
 
 ![HRBrainの製品ラインナップ](/screenshots/www.hrbrain.jp/section-10.jpg)
 
-#### SHANON
+### SHANON
 [www.shanon.co.jp](https://www.shanon.co.jp)
 
 ![SHANONの製品ラインナップ](/screenshots/www.shanon.co.jp/section-04.jpg)
 
-#### トヨクモ
+### トヨクモ
 [www.toyokumo.co.jp](https://www.toyokumo.co.jp)
 
 ![トヨクモの製品ラインナップ](/screenshots/www.toyokumo.co.jp/section-03.jpg)
 
-#### www.yayoi-kk.co.jp
+### www.yayoi-kk.co.jp
 [www.yayoi-kk.co.jp](https://www.yayoi-kk.co.jp/products/account-ol/)
 
 ![www.yayoi-kk.co.jpの製品ラインナップ](/screenshots/www.yayoi-kk.co.jp/section-03.jpg)
