@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import { withMachineReadability } from "vitepress-machine-readability";
 // @ts-ignore ビルド済みの単一ファイル（services/knowledge が配布元）
 import { buildKnowledgePackage } from "./knowledge-indexer.mjs";
 
@@ -14,7 +15,8 @@ const SECTION_TITLES: Record<string, string> = {
   hero: "ヒーロー深掘り",
 };
 
-export default defineConfig({
+export default defineConfig(
+  withMachineReadability({
   mpa: true,
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
@@ -183,4 +185,17 @@ export default defineConfig({
       `[knowledge] ${pkg.out} (${pkg.documents}件 / ${(pkg.bytes / 1024).toFixed(1)}KB / ${pkg.generation})`,
     );
   },
-});
+},
+  // 検索エンジンとAIから読める状態にする
+  {
+    hostname: SITE_URL,
+    // 版下は plans/artboard の B2bTopBoard.vue
+    defaultImage: "/ogp.png",
+    organization: {
+      name: "アイデアマンズ株式会社",
+      url: "https://www.ideamans.com/",
+    },
+    markdownSource: true,
+    lint: "warn",
+  },
+));

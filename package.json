@@ -6,7 +6,8 @@
   "author": "Kunihiko Miyanaga <miyanaga@ideamans.com>",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "vitepress-machine-readability": "^0.1.0"
   },
   "scripts": {
     "dev": "vitepress dev",
