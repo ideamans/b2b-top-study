@@ -59,3 +59,20 @@ yarn preview
 ## ライセンス
 
 MIT
+
+## 検索
+
+ヘッダーの検索窓は `knowledge.ideamans.com`（社内のナレッジ基盤）を引いている。
+
+**このサイトは `mpa: true` でクライアントJSを配信しない。** そのため
+VitePress 内蔵の local search は動かない（ボタンだけ描かれて押しても何も
+起きない状態だった）。素のJSで動くナレッジ基盤の検索UIに置き換えてある。
+
+- 検索UIは `public/knowledge-search*` の3ファイル。**配布物なので手で編集しない**
+  （配布元は `ideamans-media/services/knowledge/packages/search-ui`）
+- 挿し込みは `.vitepress/config.mts` の head にある `data-mount: '.VPNavBarSearch'`。
+  `search: false` でもテーマは枠だけ残すので、元の検索窓の位置をそのまま使える
+- 索引は `buildEnd` が `knowledge/b2b-top.zip` を作り、`../deploy.sh` が送る
+
+`README.md` は `srcExclude` で公開から外している（開発者向けの内部文書。
+外さないと `/README.html` として公開され、検索結果にも出る）。

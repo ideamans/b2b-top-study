@@ -1,3 +1,6 @@
 node_modules/
 .vitepress/cache/
 .vitepress/dist/
+
+# ナレッジパッケージ（ビルド成果物）
+knowledge/

@@ -1,16 +1,49 @@
 import { defineConfig } from "vitepress";
+// @ts-ignore ビルド済みの単一ファイル（services/knowledge が配布元）
+import { buildKnowledgePackage } from "./knowledge-indexer.mjs";
+
+const SITE_URL = "https://b2b-top.whitepapers.ideamans.com";
+const SITE_TITLE = "B2Bトップページ研究";
+const SITE_DESCRIPTION =
+  "62のB2B SaaSサービスサイトのトップページ構成を横断分析。セクション配置パターン、採用率、スクリーンショット付き実例集。";
+
+// ナレッジのファセット。下の sidebar のグループ名と揃えている
+const SECTION_TITLES: Record<string, string> = {
+  patterns: "構成パターン（類型）",
+  sections: "セクション別ガイド",
+  hero: "ヒーロー深掘り",
+};
 
 export default defineConfig({
   mpa: true,
-  title: "B2Bトップページ研究",
-  description:
-    "62のB2B SaaSサービスサイトのトップページ構成を横断分析。セクション配置パターン、採用率、スクリーンショット付き実例集。",
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+
+  // リポジトリのREADMEは開発者向けの内部文書。除外しないと
+  // /README.html として公開され、検索結果にも出てしまう。
+  srcExclude: ["README.md"],
+
   head: [
     ["meta", { property: "og:type", content: "website" }],
     ["link", { rel: "icon", type: "image/x-icon", href: "/icons/favicon.ico" }],
     ["link", { rel: "icon", type: "image/png", sizes: "32x32", href: "/icons/favicon-32x32.png" }],
     ["link", { rel: "icon", type: "image/png", sizes: "16x16", href: "/icons/favicon-16x16.png" }],
     ["link", { rel: "apple-touch-icon", sizes: "180x180", href: "/icons/apple-touch-icon.png" }],
+    [
+      // ナレッジ基盤の検索UI。MPAなのでVueのハンドラは使えず素のJSで動く。
+      // 本体（InstantSearch）は検索を始めた人だけが読む遅延ロード。
+      //
+      // 挿し込み先はテーマが検索窓を置く枠（search: false でも残る）。
+      // 元の位置をそのまま引き継ぐので、スマホではハンバーガーの左に出る。
+      "script",
+      {
+        src: "/knowledge-search.js",
+        defer: "",
+        "data-set": "b2b-top",
+        "data-label": "この調査を検索",
+        "data-mount": ".VPNavBarSearch",
+      },
+    ],
   ],
   themeConfig: {
     nav: [
@@ -111,6 +144,43 @@ export default defineConfig({
     outline: { level: [2, 3], label: "目次" },
     lastUpdated: { text: "最終更新" },
     docFooter: { prev: "前のページ", next: "次のページ" },
-    search: { provider: "local" },
+
+    // テーマ内蔵の local search は **MPA では動かない**。
+    // mpa: true はクライアントJSを一切配信しないので、検索ボタンだけが
+    // 描かれて押しても何も起きない状態になる（実際そうなっていた）。
+    // ナレッジ基盤の検索UI（素のJSで動く）に置き換えている。
+    search: false,
+  },
+
+  async buildEnd(siteConfig) {
+    // ナレッジパッケージ。deploy.sh が knowledge.ideamans.com へ送る。
+    const pkg = await buildKnowledgePackage(siteConfig, {
+      id: "b2b-top",
+      title: SITE_TITLE,
+      description: SITE_DESCRIPTION,
+      origin: SITE_URL,
+      include: "**/*.md",
+      out: "knowledge/b2b-top.zip",
+      outline: { group_by: "directory" },
+      search: { facets: ["category_labels", "category_path"] },
+      map: (page: any) => {
+        const fm = page.frontmatter ?? {};
+        const section = page.url.replace(/^\//, "").split("/")[0] ?? "";
+        const label = SECTION_TITLES[section];
+
+        return {
+          // overview / flow / about は frontmatter に title が無く、
+          // 見出しがそのままページ名になっている
+          title: fm.title ?? fm.hero?.name ?? page.firstHeading,
+          // トップは layout: home で本文を持たず、hero に紹介文がある
+          summary: fm.description ?? fm.hero?.tagline,
+          category_path: section ? [section] : [],
+          category_labels: label ? [label] : [],
+        };
+      },
+    });
+    console.log(
+      `[knowledge] ${pkg.out} (${pkg.documents}件 / ${(pkg.bytes / 1024).toFixed(1)}KB / ${pkg.generation})`,
+    );
   },
 });
