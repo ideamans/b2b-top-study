@@ -44,6 +44,12 @@ export default defineConfig(
         "data-set": "b2b-top",
         "data-label": "この調査を検索",
         "data-mount": ".VPNavBarSearch",
+        // **このサイトはページ側がダークになるので検索UIも追随させる。**
+        // VitePress 既定テーマの `check-dark-mode` スクリプトは mpa: true でも
+        // head に出るので、`html` に `.dark` が立つ。auto はその印を見て
+        // 明暗を決める（OSの設定を直接見るのではない）。
+        // ライト固定のサイト（lightfile-next / legacy）では auto にしないこと。
+        "data-theme": "auto",
       },
     ],
   ],
