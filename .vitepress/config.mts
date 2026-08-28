@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import { withMachineReadability } from "vitepress-machine-readability";
+import { excludeNotFoundFromSitemap, writeNotFoundPage } from "./not-found.js";
 // @ts-ignore ビルド済みの単一ファイル（services/knowledge が配布元）
 import { buildKnowledgePackage } from "./knowledge-indexer.mjs";
 
@@ -18,6 +19,8 @@ const SECTION_TITLES: Record<string, string> = {
 export default defineConfig(
   withMachineReadability({
   mpa: true,
+  // 404の中身にするだけのページなので、sitemap には載せない
+  sitemap: { transformItems: excludeNotFoundFromSitemap },
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
 
@@ -161,6 +164,13 @@ export default defineConfig(
   },
 
   async buildEnd(siteConfig) {
+
+    // ナレッジのインデクサより先に走らせる。ここで not-found.html を消すので
+
+    // 「出力にあるページだけを採る」インデクサから自動的に外れる
+
+    writeNotFoundPage(siteConfig.outDir);
+
     // ナレッジパッケージ。deploy.sh が knowledge.ideamans.com へ送る。
     const pkg = await buildKnowledgePackage(siteConfig, {
       id: "b2b-top",
