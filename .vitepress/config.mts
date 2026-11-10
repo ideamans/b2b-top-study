@@ -48,12 +48,28 @@ export default defineConfig(
         "data-label": "この調査を検索",
         "data-mount": ".VPNavBarSearch",
         // **このサイトはページ側がダークになるので検索UIも追随させる。**
-        // VitePress 既定テーマの `check-dark-mode` スクリプトは mpa: true でも
-        // head に出るので、`html` に `.dark` が立つ。auto はその印を見て
+        // 下の `check-dark-mode` スクリプトが `html` に `.dark` を立てる
+        // （VitePress 1 は mpa: true でも自前で出していたが、2 は出さないので
+        // 自前で置いている）。auto はその印を見て
         // 明暗を決める（OSの設定を直接見るのではない）。
         // ライト固定のサイト（lightfile-next / legacy）では auto にしないこと。
         "data-theme": "auto",
       },
+    ],
+    [
+      // **VitePress 2 は mpa: true だと `check-dark-mode` を出さない。**
+      // 出さないと html に .dark が立たず、OS がダークでもページ・検索UIともに
+      // ライトになる（VitePress 1 ではダークになっていた）。同じ処理を自前で置く。
+      // 中身は VitePress 1 が出していたものと同じ（切り替えボタンは MPA では
+      // 動かないので、実質 OS の設定に追随する）。
+      "script",
+      { id: "check-dark-mode" },
+      `;(() => {
+        const preference = localStorage.getItem('vitepress-theme-appearance') || 'auto'
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (!preference || preference === 'auto' ? prefersDark : preference === 'dark')
+          document.documentElement.classList.add('dark')
+      })()`,
     ],
   ],
   themeConfig: {

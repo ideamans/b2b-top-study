@@ -169,3 +169,42 @@
     margin-right: 16px;
   }
 }
+
+/*
+ * VitePress 2 では `.VPNavBarMenu` が flex-grow: 1 で空きを埋め、`.search`
+ * （= `.VPNavBarSearch`）は margin-inline-end: auto でタイトル側に寄る。
+ * そのままだと検索がタイトルのすぐ右に離れて出るので、VitePress 1 と同じく
+ * 「ナビの左」に並べ直す。
+ */
+@media (min-width: 768px) {
+  .VPNavBar .content .content-body > .search {
+    margin-inline-start: auto;
+    margin-inline-end: 16px;
+  }
+
+  .VPNavBar .content .content-body > .VPNavBarMenu {
+    flex-grow: 0;
+  }
+}
+
+/*
+ * Component: ヘッダー（ホーム）
+ * -------------------------------------------------------------------------- */
+
+/*
+ * VitePress 2 はホームの最上部（.home.top）でヘッダーを透明にし、区切り線を消す。
+ * MPA ではクライアント JS が無いのでスクロールしても .top が外れず、透明な
+ * ヘッダーが本文に重なったままになる。VitePress 1 の MPA と同じく、常に背景と
+ * 区切り線を出す（色は変数なのでライト・ダークの両方に効く）。
+ */
+:root {
+  --vp-nav-home-bg-color: var(--vp-nav-bg-color);
+}
+
+.VPNav .VPNavBar.home::before {
+  background-color: var(--vp-nav-bg-color);
+}
+
+.VPNav .VPNavBar.home .divider-line {
+  background-color: var(--vp-nav-divider-color);
+}
