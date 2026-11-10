@@ -73,6 +73,9 @@ VitePress 内蔵の local search は動かない（ボタンだけ描かれて�
 - 挿し込みは `.vitepress/config.mts` の head にある `data-mount: '.VPNavBarSearch'`。
   `search: false` でもテーマは枠だけ残すので、元の検索窓の位置をそのまま使える
 - 索引は `buildEnd` が `knowledge/b2b-top.zip` を作り、`../deploy.sh` が送る
+- 検索UIは `data-theme="auto"` で `html.dark` に追随する。**VitePress 2 は
+  `mpa: true` だと `check-dark-mode` を出さない**ので、同じスクリプトを
+  config の head に自前で置いている。消すとページも検索UIも常にライトになる
 
 `README.md` は `srcExclude` で公開から外している（開発者向けの内部文書。
 外さないと `/README.html` として公開され、検索結果にも出る）。
